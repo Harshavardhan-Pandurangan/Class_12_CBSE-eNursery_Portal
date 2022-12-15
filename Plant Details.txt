@@ -1,0 +1,40 @@
+001
+Mango
+30
+200
+Mangifera indica
+Y
+Y
+Y
+An incredibly sweet seasonal fruit from tiny yellow flowers. Takes about 10 years to mature and grows to be a reasonably moderate sized tree.
+
+002
+Apple
+80
+300
+Malus domestica
+Y
+Y
+Y
+The most highly rated, healthy fruit. Suitable for cold weather for healthy growth of the plant. Takes about 10 years to mature.
+
+003
+Neem
+50
+300
+Azadirachta indica
+Y
+Y
+N
+A very useful plant, with great medical uses. Grows to be a very big tree in about 15 years. Has very small medicinal flowers seasonally.
+
+004
+Ashoka
+30
+250
+Saraca asoca
+Y
+N
+N
+A really big conical tree when grown. Takes about 12 years to completely grow. Has small non-edible fruits.
+
