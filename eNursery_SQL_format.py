@@ -17,7 +17,7 @@ from pprint import pprint
 mydb = connect(
   host="localhost",
   user="root",
-  password="Harsha@1234",
+  password="admin",
   database="eNursery"
 )
 
